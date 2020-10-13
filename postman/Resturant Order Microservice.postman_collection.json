@@ -1,0 +1,24 @@
+{
+  "info": {
+	"_postman_id": "0f9857e9-e23d-46b3-b0a0-33e3902dc87e",
+	"name": "Resturant Order Microservice",
+	"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+	{
+	  "name": "Get Menu",
+	  "request": {
+		"method": "GET",
+		"header": [],
+		"body": {
+		  "mode": "raw",
+		  "raw": ""
+		},
+		"url": {
+		  "raw": ""
+		}
+	  },
+	  "response": []
+	}
+  ]
+}
